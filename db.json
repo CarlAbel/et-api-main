@@ -4,12 +4,13 @@
       "id": 1,
       "productName": "Iphone 12",
       "brand": "Apple",
-      "productCategory": ["phone", "electric", "wifi"],
-      "eanNumberNumber": "112",
+      "productCategory": ["phone ", "electric ", "wifi "],
+      "eanNumber": "112",
       "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "455.00",
       "retailPrice": "895.00",
       "stock": "99+",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -64,12 +65,13 @@
       "id": 2,
       "productName": "Iphone 11",
       "brand": "Apple",
-      "productCategory": ["phone", "electric", "wifi"],
+      "productCategory": ["phone ", "electric ", "wifi "],
       "eanNumber": "113",
-      "productDesc": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "355.00",
       "retailPrice": "795.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -114,14 +116,15 @@
     },
     {
       "id": 3,
-      "productName": "Flipknife gemt i viskelæder",
-      "brand": "Husqvarna",
-      "productCategory": ["knife", "flipknife", "blade"],
+      "productName": "Airpods Pro",
+      "brand": "Apple",
+      "productCategory": ["phone ", "earbuds ", "bluetooth "],
       "eanNumber": "114",
-      "productDesc": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "99.00",
       "retailPrice": "3999.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -152,14 +155,15 @@
     },
     {
       "id": 4,
-      "productName": "120i Chainsaw",
-      "brand": "Husqvarna",
-      "productCategory": ["chainsaw", "electric", "motor"],
+      "productName": "Airpods",
+      "brand": "Apple",
+      "productCategory": ["phone ", "earbuds ", "bluetooth "],
       "eanNumber": "115",
-      "productDesc": "Få eleverne til at lytte i timerne med Husqvarnas nyeste motorsav. Med denne 120i kan du få eleverne til at lytte i timerne med en effektiv og nyttig motor. Bare lyden vil få eleverne til at lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "99.00",
       "retailPrice": "3999.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-20",
@@ -196,14 +200,15 @@
     },
     {
       "id": 5,
-      "productName": "Husqvarna 130i",
-      "brand": "Husqvarna",
-      "productCategory": ["chainsaw", "electric", "motor"],
+      "productName": "SpeakerQ30",
+      "brand": "JBL",
+      "productCategory": ["speaker ", "electric ", "bluetooth "],
       "eanNumber": "116",
-      "productDesc": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "99.00",
       "retailPrice": "3999.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -248,14 +253,15 @@
     },
     {
       "id": 6,
-      "productName": "Flipknife gemt i viskelæder",
-      "brand": "Husqvarna",
-      "productCategory": ["knife", "flipknife", "blade"],
+      "productName": "SpeakerQ20",
+      "brand": "JBL",
+      "productCategory": ["speaker ", "electric ", "bluetooth "],
       "eanNumber": "117",
-      "productDesc": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "99.00",
       "retailPrice": "3999.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -292,14 +298,15 @@
     },
     {
       "id": 7,
-      "productName": "Flipknife gemt i viskelæder",
-      "brand": "Husqvarna",
-      "productCategory": ["knife", "flipknife", "blade"],
+      "productName": "SpeakerQ10",
+      "brand": "JBL",
+      "productCategory": ["speaker ", "electric ", "bluetooth "],
       "eanNumber": "117",
-      "productDesc": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "99.00",
       "retailPrice": "3999.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -336,14 +343,15 @@
     },
     {
       "id": 8,
-      "productName": "Flipknife gemt i viskelæder",
-      "brand": "Husqvarna",
-      "productCategory": ["knife", "flipknife", "blade"],
+      "productName": "Macbook Pro",
+      "brand": "Apple",
+      "productCategory": ["computer ", "electric ", "workstation "],
       "eanNumber": "117",
-      "productDesc": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "99.00",
       "retailPrice": "3999.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -380,14 +388,15 @@
     },
     {
       "id": 9,
-      "productName": "Flipknife gemt i viskelæder",
-      "brand": "Husqvarna",
-      "productCategory": ["knife", "flipknife", "blade"],
+      "productName": "Macbook 15'",
+      "brand": "Apple",
+      "productCategory": ["computer ", "electric ", "workstation "],
       "eanNumber": "117",
-      "productDesc": "En endnu større chainsaw der virkelig vil få dine elever til at holde deres mund. Denne 130i har en ny og effektiv motor som gør at eleverne vil lytte i timerne.",
+      "productDesc": "The newest version Iphone 13 from the manufactorer Apple.",
       "price": "99.00",
       "retailPrice": "3999.00",
       "stock": "10",
+      "productAdded": "2022-08-23",
       "customer_views": [
         {
           "date": "2022-08-23",
@@ -430,7 +439,9 @@
       "userPassword": "Serranoham10",
       "userEmail": "serranno95@gmail.com",
       "phone": "50145412",
+      "joined": "2022-08-16",
       "address": {
+        "country": "England",
         "street": "Oregano street 234",
         "city": "Serrano",
         "zip": "8920"
@@ -443,7 +454,9 @@
       "userPassword": "DarraghJebait20",
       "userEmail": "Darragh@gmail.com",
       "phone": "22234212",
+      "joined": "2022-08-16",
       "address": {
+        "country": "England",
         "street": "Gilby street 12",
         "city": "Sierra",
         "zip": "8920"
@@ -456,7 +469,9 @@
       "userPassword": "carpenterMan",
       "userEmail": "carpenterMan90@gmail.com",
       "phone": "66235232",
+      "joined": "2022-08-16",
       "address": {
+        "country": "England",
         "street": "tyler street 234",
         "city": "Serrano",
         "zip": "8920"
